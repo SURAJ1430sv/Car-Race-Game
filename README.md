@@ -78,6 +78,7 @@ Car-Race-Game/
 * 🛣️ Game Start Screen
 * 🚗 During Gameplay
 * 💥 Game Over Screen
+<img width="1917" height="927" alt="Screenshot 2025-04-11 233015" src="https://github.com/user-attachments/assets/c5524493-29ab-410e-a4f6-925331fdac7b" />
 
 ---
 
