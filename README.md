@@ -73,8 +73,6 @@ Car-Race-Game/
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
-
 * 🛣️ Game Start Screen
 * 🚗 During Gameplay
 * 💥 Game Over Screen
